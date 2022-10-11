@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Food-order1/static/css/main.084f36bd.chunk.css",
+    "main.js": "/Food-order1/static/js/main.2270fece.chunk.js",
+    "main.js.map": "/Food-order1/static/js/main.2270fece.chunk.js.map",
+    "runtime-main.js": "/Food-order1/static/js/runtime-main.75f4bfac.js",
+    "runtime-main.js.map": "/Food-order1/static/js/runtime-main.75f4bfac.js.map",
+    "static/js/2.dbfcab7e.chunk.js": "/Food-order1/static/js/2.dbfcab7e.chunk.js",
+    "static/js/2.dbfcab7e.chunk.js.map": "/Food-order1/static/js/2.dbfcab7e.chunk.js.map",
+    "index.html": "/Food-order1/index.html",
+    "static/css/main.084f36bd.chunk.css.map": "/Food-order1/static/css/main.084f36bd.chunk.css.map",
+    "static/js/2.dbfcab7e.chunk.js.LICENSE.txt": "/Food-order1/static/js/2.dbfcab7e.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/Food-order1/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75f4bfac.js",
+    "static/js/2.dbfcab7e.chunk.js",
+    "static/css/main.084f36bd.chunk.css",
+    "static/js/main.2270fece.chunk.js"
+  ]
+}
